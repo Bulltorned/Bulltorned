@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bulltorned
+- 👋 Hi, I’m 0xBulls
 - 👀 I’m interested in web 3.0, blockchain, nft, tokenomics
 - 🌱 I’m currently learning macro tokenomics, solidity,
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me twitter: @bulltorned
+- ✨ Fun fact im graduate in Hospitality University
 
 <!---
 Bulltorned/Bulltorned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
