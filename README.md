@@ -2,7 +2,7 @@
 - 👀 I’m interested in web 3.0, blockchain, nft, tokenomics
 - 🌱 I’m currently learning macro tokenomics, solidity,
 - 💞️ I’m looking to collaborate on 
-- ✨ Fun fact im graduate in Hospitality University
+- ✨ Fun fact i graduate in Hospitality University and lost in Javascript
 
 <!---
 Bulltorned/Bulltorned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
