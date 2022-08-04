@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 0xBulls
 - 👀 I’m interested in web 3.0, blockchain, nft, tokenomics
-- 🌱 I’m currently learning macro tokenomics, solidity,
+- 🌱 I’m currently diving deep into macro tokenomics, solidity, cryptodata, DId
 - 💞️ I’m looking to collaborate on 
 - ✨ Fun fact i graduate in Hospitality University and lost in Javascript
 
